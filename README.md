@@ -32,7 +32,7 @@
 - [x] begin(), end(), cbegin(), cend()，实现正向迭代器
 - [x] rbegin(), rend(), crbegin(), crend(), 实现反向迭代器
 
-## 技术亮点
+## 用到的技术
 
 1）**模板编程**：使用模板类`template <typename T>`来允许`KVector`以任意数据类型`T`作为元素，增加了代码的复用性和灵活性；
 
